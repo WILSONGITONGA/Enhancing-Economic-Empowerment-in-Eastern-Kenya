@@ -1,5 +1,6 @@
 # Survey For Economic Actors In Eastern Kenya.
 Mapping Key Economic Actors for Marginalized Communities economic Empowernemnt in Eastern Kenya Using KOBO Collect App.
+
 [The Raw Data for the project can be accessed Here](https://drive.google.com/drive/folders/144A_1fN8ajQs9yVZk8yS3sASpEta4fIx?usp=sharing)
 ## Wilson's Role.
 I was contracted by EMAC to lead data collection for the Economic Empowerment and Access to Resources (EEAR) project in Eastern Kenya. My main task was to use the KOBO Collect app to create a detailed questionnaire for survey to identify key economic players in the area. With my background in data analysis, I designed easy-to-understand Questionnaire  to gather important information from local economic actors and beneficiaries. I also trained the data collectors to effectively use the app and provided ongoing support during the collection process. By using KOBO Collect, I ensured real-time data entry, allowing EMAC to quickly analyze the information and create a resource directory. 
