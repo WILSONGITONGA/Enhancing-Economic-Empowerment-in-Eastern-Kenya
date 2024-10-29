@@ -46,6 +46,10 @@ The main goal of the EEAR project is to improve access to economic development f
 
 By supporting the EEAR project, donors and employers can play a crucial role in transforming the economic landscape for marginalized communities in Eastern Kenya, promoting sustainable development and empowering people to thrive.
 
+### Project Done By:
+**Wilson Gitonga**
+
+www.wilsongitonga.com
 
 
 
